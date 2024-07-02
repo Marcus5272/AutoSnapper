@@ -28,7 +28,7 @@ root = tk.Tk()
 root.title("Snaps Sent")
 
 while True:
-    username = "Enter Username here"  
+    username = "jamaljackson763"  
     if keyboard.is_pressed('delete'):
         break
     pyautogui.moveTo(993, 485, duration=0.0)
